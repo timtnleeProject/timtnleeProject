@@ -1,7 +1,8 @@
 ### Bookmark
 
-* Create Project/Template
+* Project Create/Template/Bundle/Dev
   * [tsdx](https://github.com/formium/tsdx)
+  * [vite](https://github.com/vitejs/vite)
 * Mocking API
   * [msw](https://github.com/mswjs/msw)
 * Make a markdown doc site
