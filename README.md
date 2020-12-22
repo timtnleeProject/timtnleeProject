@@ -14,3 +14,4 @@
   * [reqct-query](https://github.com/tannerlinsley/react-query)
 * Others
   * [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
+  * [React server component](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
