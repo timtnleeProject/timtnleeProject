@@ -12,6 +12,8 @@
 * React: Remote data fetching (cache solution)
   * [swr](https://github.com/vercel/swr)
   * [reqct-query](https://github.com/tannerlinsley/react-query)
+* Worth investing
+  * [Svelte](https://svelte.dev/)
 * Others
   * [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
   * [React server component](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
