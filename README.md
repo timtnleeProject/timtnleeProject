@@ -12,6 +12,8 @@
 * React: Remote data fetching (cache solution)
   * [swr](https://github.com/vercel/swr)
   * [reqct-query](https://github.com/tannerlinsley/react-query)
+* React: state management
+  * [Recoil](https://github.com/facebookexperimental/Recoil)
 * Worth investing
   * [Svelte](https://svelte.dev/)
 * Others
