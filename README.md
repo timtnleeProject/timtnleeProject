@@ -14,6 +14,9 @@
   * [reqct-query](https://github.com/tannerlinsley/react-query)
 * React: state management
   * [Recoil](https://github.com/facebookexperimental/Recoil)
+* Deployment
+  * [Vercel](https://vercel.com/)
+  * [netlify](https://www.netlify.com/)
 * Worth investing
   * [Svelte](https://svelte.dev/)
 * Others
