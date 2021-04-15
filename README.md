@@ -5,6 +5,8 @@
   * [vite](https://github.com/vitejs/vite)
 * Mocking API
   * [msw](https://github.com/mswjs/msw)
+* Webpack, project
+  * https://www.npmjs.com/package/dotenv-webpack
 * Make a markdown doc site
   * [react-markdown](https://github.com/remarkjs/react-markdown)
   * [markdown-it](https://github.com/markdown-it/markdown-it)
