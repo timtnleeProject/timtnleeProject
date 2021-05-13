@@ -16,6 +16,8 @@
   * [reqct-query](https://github.com/tannerlinsley/react-query)
 * React: state management
   * [Recoil](https://github.com/facebookexperimental/Recoil)
+* React: tool
+  * [svgr](https://github.com/gregberge/svgr): handle svg
 * Deployment
   * [Vercel](https://vercel.com/)
   * [netlify](https://www.netlify.com/)
