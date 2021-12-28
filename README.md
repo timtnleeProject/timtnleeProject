@@ -7,6 +7,7 @@
   * [msw](https://github.com/mswjs/msw)
 * Webpack, project, env
   * [dotenv-webpack](https://www.npmjs.com/package/dotenv-webpack)
+  * [webpack-config-plugins](https://github.com/merkle-open/webpack-config-plugins)
 * Make a markdown doc site
   * [react-markdown](https://github.com/remarkjs/react-markdown)
   * [markdown-it](https://github.com/markdown-it/markdown-it)
