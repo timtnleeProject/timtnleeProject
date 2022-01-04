@@ -8,6 +8,7 @@
 * Webpack, project, env
   * [dotenv-webpack](https://www.npmjs.com/package/dotenv-webpack)
   * [webpack-config-plugins](https://github.com/merkle-open/webpack-config-plugins)
+  * https://github.com/facebook/create-react-app/blob/main/packages/react-scripts/config/webpack.config.js
 * Make a markdown doc site
   * [react-markdown](https://github.com/remarkjs/react-markdown)
   * [markdown-it](https://github.com/markdown-it/markdown-it)
